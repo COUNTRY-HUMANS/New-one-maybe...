@@ -1,6 +1,9 @@
 <div align="center">
 <img width="1280" height="429" alt="tumblr_ed8fdf2fc5b7c33848195f5630fef746_ccd4d6a5_1280" src="https://github.com/user-attachments/assets/ab58cffa-9f3d-4aa5-b79c-30295d83bbd1"/>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=COUNTRY-HUMANS&color=yellow&style=plastic&label=vistors)
+<img alt="followers" src="https://img.shields.io/github/followers/COUNTRY-HUMANS?color=yellow&style=plastic&abbreviated=false&label=friends"/>
+
 <img width="2047" height="60" alt="tumblr-3219f4cddd6e58dd463a61101e40ffd6-28e4e610-2048-fliter-gold-sunset-channel-blue-mode-normal" src="https://github.com/user-attachments/assets/4e56e3c4-3ac1-4e56-bb7f-f297f6f030fa"/>
 
 
