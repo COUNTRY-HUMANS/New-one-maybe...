@@ -4,6 +4,14 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=COUNTRY-HUMANS&color=yellow&style=plastic&label=vistors)
 <img alt="followers" src="https://img.shields.io/github/followers/COUNTRY-HUMANS?color=yellow&style=plastic&abbreviated=false&label=friends"/>
 
+<img width="60" height="40" alt="64471025_wiN" src="https://github.com/user-attachments/assets/e306d940-7b26-41f5-896e-caa28644f709"/>
+<img width="60" height="40" alt="64471029_zre" src="https://github.com/user-attachments/assets/04b2cf49-3418-4a8b-aa8e-a73f9dc74a02" />
+<img width="60" height="40" alt="66080899_08iFkBb775VC0f0" src="https://github.com/user-attachments/assets/214c7424-812f-4874-a799-54122af5ea8c" />
+
+
+
+
+
 <img width="2047" height="60" alt="tumblr-3219f4cddd6e58dd463a61101e40ffd6-28e4e610-2048-fliter-gold-sunset-channel-blue-mode-normal" src="https://github.com/user-attachments/assets/4e56e3c4-3ac1-4e56-bb7f-f297f6f030fa"/>
 
 
