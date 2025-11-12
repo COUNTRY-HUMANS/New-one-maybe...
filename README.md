@@ -11,8 +11,6 @@
 <img width="40" height="30" alt="64471029_zre" src="https://github.com/user-attachments/assets/04b2cf49-3418-4a8b-aa8e-a73f9dc74a02" />
 <img width="40" height="30" alt="66080899_08iFkBb775VC0f0" src="https://github.com/user-attachments/assets/214c7424-812f-4874-a799-54122af5ea8c" />
 
-<div align="left">
-
 <table>
   <tr>
     <th>
@@ -24,8 +22,6 @@ $\color{Goldenrod}{\textsf{feel free to copy/inspo/post me on pinterest}}$ <br>
 </th>
 </tr>
 </table>
-
-</div>
 
 <a href="https://eveleen.atabook.org/"><img src="https://see.fontimg.com/api/rf5/axjg/Mjk4ZjQ3OGM3YTlmNGEzYjhjZGQyN2EwYjYyMGEyNTEudHRm/QXRhYm9vaw/cloister-black-light.png?r=fs&h=65&w=1500&fg=E8BC1D&bg=FFFFFF&tb=1&s=43" width="125" height="125" alt="atabook"></a> 
 
