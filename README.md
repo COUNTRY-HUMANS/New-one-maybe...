@@ -9,9 +9,9 @@
 
 ⠀<br/>
 
-<img width="60" height="40" alt="64471025_wiN" src="https://github.com/user-attachments/assets/e306d940-7b26-41f5-896e-caa28644f709"/>
-<img width="60" height="40" alt="64471029_zre" src="https://github.com/user-attachments/assets/04b2cf49-3418-4a8b-aa8e-a73f9dc74a02" />
-<img width="60" height="40" alt="66080899_08iFkBb775VC0f0" src="https://github.com/user-attachments/assets/214c7424-812f-4874-a799-54122af5ea8c" />
+<img width="40" height="30" alt="64471025_wiN" src="https://github.com/user-attachments/assets/e306d940-7b26-41f5-896e-caa28644f709"/>
+<img width="40" height="30" alt="64471029_zre" src="https://github.com/user-attachments/assets/04b2cf49-3418-4a8b-aa8e-a73f9dc74a02" />
+<img width="40" height="30" alt="66080899_08iFkBb775VC0f0" src="https://github.com/user-attachments/assets/214c7424-812f-4874-a799-54122af5ea8c" />
 
 <div align="left">
 
