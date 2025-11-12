@@ -18,7 +18,7 @@
     <th>
 $\color{Goldenrod}{\textsf{feel free to sit near me/cuddle/hide behind me}}$ <br>
 $\color{Goldenrod}{\textsf{i'm almost always offtab, so whisper to interact}}$ <br>
-$\color{Goldenrod}{\textsf{i might be slow at replying/disconnect from the game}}$ <br>
+$\color{Goldenrod}{\textsf{i might be slow at replying/disconnect from pt}}$ <br>
 $\color{Goldenrod}{\textsf{i can be awkward but i promise im nice}}$ <br>
 $\color{Goldenrod}{\textsf{feel free to copy/inspo/post me on pinterest}}$ <br>
 </th>
