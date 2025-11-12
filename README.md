@@ -25,11 +25,34 @@ $\color{Goldenrod}{\textsf{feel free to copy/inspo/post me on pinterest}}$ <br>
 </tr>
 </table>
 
+<a href="https://eveleen.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=30&duration=1&pause=5000&color=F7CD1A&center=true&vCenter=true&width=200&height=25&lines=Atabook" alt="Typing SVG" /></a>
+
 <a href="https://eveleen.atabook.org/"><img src="https://see.fontimg.com/api/rf5/axjg/Mjk4ZjQ3OGM3YTlmNGEzYjhjZGQyN2EwYjYyMGEyNTEudHRm/QXRhYm9vaw/cloister-black-light.png?r=fs&h=65&w=1500&fg=E8BC1D&bg=FFFFFF&tb=1&s=43" width="125" height="125" alt="atabook"></a> 
 
 <img width="2048" height="314" alt="tumblr_d4c171d40a8467f350755dca603f6c15_6b446658_2048" src="https://github.com/user-attachments/assets/1add39d0-9318-4f9d-af7c-6d587f014edd"/>
 
 <img align="right" width="250" height="300" alt="Image-36" src="https://github.com/user-attachments/assets/0c33fd75-3bf2-497e-8a66-91d3f34a5438" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=30&duration=1&pause=5000&color=F7CD1A&center=true&vCenter=true&width=435&height=25&lines=Do+not+Interact" alt="Typing SVG" /></a>
+<table>
+  <tr>
+    <th>
+$\color{Goldenrod}{\textsf{proshipper/darkshipper, real life gore enjoyer}}$ <br>
+$\color{Goldenrod}{\textsf{anyone who unironically considers themself problematic}}$ <br>
+$\color{Goldenrod}{\textsf{alt-right, incel/femcel, TCC, historical 'fandoms'}}$ <br>
+$\color{Goldenrod}{\textsf{support AI for creative use, rude for no reason}}$ <br>
+$\color{Goldenrod}{\textsf{support pedo, necro, zoo, rape fetish, or incest}}$ <br>
+</th>
+</tr>
+</table>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=30&duration=1&pause=5000&color=F7CD1A&center=true&vCenter=true&width=435&height=25&lines=Interact+With+Caution" alt="Typing SVG" /></a>
+<table>
+  <tr>
+    <th>
+$\color{Goldenrod}{\textsf{over 18, under 13, hetalia fan}}$
+    </th>
+  </tr>
+</table>
 
 <img width="2047" height="60" alt="tumblr-3219f4cddd6e58dd463a61101e40ffd6-28e4e610-2048-fliter-gold-sunset-channel-blue-mode-normal" src="https://github.com/user-attachments/assets/4e56e3c4-3ac1-4e56-bb7f-f297f6f030fa"/>
 
